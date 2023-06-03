@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:mrhasangoli@gmail.com)
-  [![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/disrespectist)
+  [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:mohammadi.pooria.2000@gmail.com)
+  [![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me)
   
 </div>
 
